@@ -10,3 +10,18 @@ C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\W
 C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.dll
 C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\User1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.help.resources
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.dll
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.help.resources
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CopyComplete
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\RYZEN\Source\Repos\N-queen-problem-solver\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
